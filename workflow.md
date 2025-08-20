@@ -1,4 +1,4 @@
-# 🧭 Git Workflow - Projeto [Nome do Projeto]
+# 🧭 Git Workflow - Projeto Cantina dos Mano
 
 Este documento define o fluxo de trabalho adotado neste repositório, baseado no **GitHub Flow**, com padronização de *commits* semânticos e diretrizes para revisão e integração de código.
 
