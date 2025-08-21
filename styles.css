@@ -34,3 +34,7 @@ li {
 .nutricao {
     margin-left: 10px;
 }
+img {
+    width: 100px;
+    border-radius: 10px;
+}
